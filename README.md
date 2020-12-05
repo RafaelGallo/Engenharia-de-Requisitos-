@@ -1,4 +1,4 @@
-# Engenharia-de-Requisitos
-Projeto de engenharia de requisitos.
+# Engenharia de software e engenharia-de-Requisitos
 
-Projeto SUS
+Engenharia de requisitos - SUS
+Engenharia de software - Sistema operacional para aplicações IOT - MindSphere Siemens
